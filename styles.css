@@ -51,11 +51,32 @@ nav a:hover{
     margin: auto;
     margin-top: 50px;
     width: 50%;
+    height: 200px;
     font-weight:bold;
     background-color: cadetblue;
     padding: 5px;
     border-color: blue white blue white;
+    display:flex;
+    justify-content: space-between;
 }
+
+.right-side{
+    text-align: center;
+
+
+}
+
+button{
+    width: 30%;
+    height:30%;
+    background-color: pink;
+    display:inline-block;
+    border-radius: 50px 50px;
+
+
+}
+
+
 
 .Intro-Container {
     border: 2px black solid;
@@ -73,7 +94,7 @@ nav a:hover{
     padding: 5px;
 }
 
-.jlpt-title{
+.title{
 	text-align:center;
 	font-family:cursive;
 	color:red;
