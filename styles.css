@@ -2,12 +2,6 @@ body{
     background-color :rgb(255,177,177);
 }
 
-#N3header{
-    font-family: serif;
-    font-size: 50px;
-}
-
-
 
 .container{
     border:2px black solid;
@@ -17,6 +11,6 @@ body{
     font-weight:bold;
     background-color: cadetblue;
     padding: 5px;
-    box-shadow: -10px -10px #777777;
+    border-color: blue white blue white;
 }
 
