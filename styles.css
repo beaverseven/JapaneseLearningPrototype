@@ -14,3 +14,18 @@ body{
     border-color: blue white blue white;
 }
 
+.Intro-Container {
+    border: 2px black solid;
+    margin: auto;
+    margin-top: 50px;
+    width: 30%;
+    font-weight: bold;
+    background-color: cadetblue;
+    padding: 5px;
+    border-color: blue white blue white;
+}
+.side{
+    width: 50%;
+    margin: 0px 150px;
+    padding: 5px;
+}
