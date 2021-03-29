@@ -1,3 +1,32 @@
 body{
     background-color :rgb(255,177,177)
 }
+
+.N5{
+}
+
+.N5-description{
+	font-weight:bold;
+}
+
+.N5-container{
+	width:50%;
+	background-color:pink;
+	margin:auto;
+	border:2px black solid;
+}
+
+.N4{
+	
+}
+
+.N4-description{
+	font-weight:bold;
+}
+
+.N4-container{
+	width:50%;
+	background-color:pink;
+	margin:auto;
+	border:2px black solid;
+}
