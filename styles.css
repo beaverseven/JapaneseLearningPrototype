@@ -86,15 +86,18 @@ nav a:hover{
     border: 2px black solid;
     margin: auto;
     margin-top: 50px;
-    width: 30%;
+    height: 390px;
+    width: 50%;
     font-weight: bold;
     background-color: cadetblue;
     padding: 5px;
     border-color: blue white blue white;
+    display:flex;
+    flex-direction:column;
 }
 .side{
     width: 50%;
-    margin: 0px 60%;
+    margin: -300px 50%;
     padding: 5px;
 }
 
