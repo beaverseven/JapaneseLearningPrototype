@@ -1,6 +1,24 @@
 body{
     background-color :rgb(255,177,177);
 }
+#logo{
+    text-align: center;
+}
+header{
+    padding: 100px;
+    background-color: pink;
+    
+}
+nav{
+    background-color: red;
+    padding: 20px;
+}
+nav a{
+    background-color: pink;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 20px;
+}
 
 
 .container{
