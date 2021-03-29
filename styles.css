@@ -26,6 +26,12 @@ body{
 }
 .side{
     width: 50%;
-    margin: 0px 150px;
+    margin: 0px 500px;
     padding: 5px;
+}
+
+.jlpt-title{
+	text-align:center;
+	font-family:cursive;
+	color:red;
 }
