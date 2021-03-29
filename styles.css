@@ -66,17 +66,21 @@ nav a:hover{
 
 }
 
-button{
-    width: 30%;
-    height:30%;
+.learn{
+    width: 100px;
+    height:30px;
     background-color: pink;
     display:inline-block;
     border-radius: 50px 50px;
-
-
 }
 
-
+.practice{
+    width: 100px;
+    height:30px;
+    background-color: pink;
+    display:inline-block;
+    border-radius: 50px 50px;
+}
 
 .Intro-Container {
     border: 2px black solid;
@@ -98,4 +102,10 @@ button{
 	text-align:center;
 	font-family:cursive;
 	color:red;
+}
+
+.right-title{
+    text-align:center;
+    font-family:cursive;
+    color:red;
 }
