@@ -2,9 +2,6 @@ body{
     background-color :rgb(255,177,177);
 }
 
-.N5{
-}
-
 .N5-description{
 	font-weight:bold;
 }
@@ -15,16 +12,23 @@ body{
 	border:2px black solid;
 }
 
-.N4{
-	
+#N3header{
+    font-family: serif;
+    font-size: 50px;
 }
 
-.N4-description{
-	font-weight:bold;
+#description1{
+    font-family:serif;
+    font-size: 20px
+
+
 }
 
-.N4-container{
-	width:50%;
-	margin:auto;
-	border:2px black solid;
+.container{
+    border:2px black solid;
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    font-weight:bold;
 }
+
