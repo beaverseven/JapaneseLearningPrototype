@@ -7,12 +7,17 @@ body{
 
 .N5-description{
 	font-weight:bold;
+	margin:center;
 }
 
 .N5-container{
 	width:50%;
 	margin:auto;
 	border:2px black solid;
+}
+
+.n5-text{
+	margin:0;
 }
 
 .N4{
@@ -27,4 +32,8 @@ body{
 	width:50%;
 	margin:auto;
 	border:2px black solid;
+}
+
+.n4-text{
+	margin:0;
 }
