@@ -1,3 +1,51 @@
 body{
-    background-color :rgb(255,177,177)
+    background-color :rgb(255,177,177);
+}
+
+.N5-description{
+	font-weight:bold;
+	text-align:center;
+}
+
+.container{
+	width:50%;
+	margin:auto;
+	border:2px black solid;
+}
+
+#N3header{
+    font-family: serif;
+    font-size: 50px;
+}
+
+#description1{
+    font-family:serif;
+    font-size: 20px
+
+
+}
+
+.container{
+    border:2px black solid;
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    font-weight:bold;
+}
+
+.n5-text{
+	margin:0;
+}
+
+
+.N4-description{
+	font-weight:bold;
+}
+
+.n4-text{
+	margin:0;
+}
+
+.jlpt-title{
+	text-align:center;
 }
