@@ -2,15 +2,12 @@ body{
     background-color :rgb(255,177,177);
 }
 
-.N5{
-}
-
-.N5-description{
+.description{
 	font-weight:bold;
-	margin:center;
+	text-align:center;
 }
 
-.N5-container{
+.container{
 	width:50%;
 	margin:auto;
 	border:2px black solid;
@@ -20,20 +17,15 @@ body{
 	margin:0;
 }
 
-.N4{
-	
-}
 
 .N4-description{
 	font-weight:bold;
 }
 
-.N4-container{
-	width:50%;
-	margin:auto;
-	border:2px black solid;
-}
-
 .n4-text{
 	margin:0;
+}
+
+.jlpt-title{
+	text-align:center;
 }
