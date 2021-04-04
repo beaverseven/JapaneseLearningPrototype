@@ -146,6 +146,14 @@ abbr{
    
 }
 
+.titledescription{
+    padding: 100px 100px 0px 300px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color:white;
+    font-size: 30px; 
+
+}
+
 .sub-title{
     text-align:center;
     font-family:cursive;
