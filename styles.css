@@ -155,7 +155,9 @@ nav a:hover{
     color: black;
 
 }
-
+#Intro{
+    background-color:  #00563B;
+}
 
 #intro-container {
     margin-top: 200px;
@@ -166,7 +168,7 @@ nav a:hover{
     background-position: center;
     background-size: 100% 1000px;
     margin: auto;
-    width: 100%;
+    width: 80%;
     font-weight: bold;
     display: flex;
     justify-content: space-evenly;
