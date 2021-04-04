@@ -24,6 +24,7 @@ nav{
     height: 80px;
     display: flex;
     flex-wrap:wrap ;
+    margin-bottom: 2px;
 
 }
 nav a{
@@ -139,13 +140,14 @@ abbr{
 }
 
 #intro-container{
+    padding-top: 150px;
     background-image: url('blackboard.png');
     background-color:#00563B;
     background-repeat:no-repeat;
-    background-position: 0% 100% 0% 100%;
+    background-position: center;
+    background-size: 100% 1000px;
     margin:auto;
     width: 100%;
-    height: fit-content;
     font-weight:bold;
     display:flex;
     justify-content: space-evenly;
