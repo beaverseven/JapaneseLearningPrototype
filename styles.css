@@ -4,6 +4,9 @@ body{
     height: 1400px;
     margin:0;
 }
+.sectionPadding{
+    height: 1000px;
+}
 #logo{
     text-align: center;
 }
@@ -157,7 +160,6 @@ abbr{
     background-color:#29AB87;
     margin: auto;
     width: 100%;
-    height: fit-content;
     font-weight:bold;
     display:flex;
     justify-content: space-evenly;
@@ -173,7 +175,6 @@ abbr{
     background-color:#5CDB95;
     margin: auto;
     width: 100%;
-    height: fit-content;
     font-weight:bold;
     display:flex;
     justify-content: space-evenly;
@@ -189,7 +190,6 @@ abbr{
      background-color:#8EE4AF;
     margin: auto;
     width: 100%;
-    height: fit-content;
     font-weight:bold;
     display:flex;
     justify-content: space-evenly;
