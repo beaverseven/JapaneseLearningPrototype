@@ -139,11 +139,11 @@ abbr{
 }
 
 .title{
-    text-align:center;
-    font-family:helvetica;
-    color:#00008B;
-    text-decoration:underline;
-    font-size: 40px;
+    padding: 100px 100px 0px 300px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color:white;
+    font-size: 150px; 
+   
 }
 
 .sub-title{
@@ -171,15 +171,6 @@ abbr{
 
 }
 
-#n5-container{
-    background-color:#29AB87;
-    margin: auto;
-    width: 100%;
-    font-weight:bold;
-    display:flex;
-    justify-content: space-evenly;
-
-}
 
 #n5-container h2{
 
@@ -333,4 +324,5 @@ abbr{
 #x-container li:before{
     content: "\1F338";
 }
+
 
