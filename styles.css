@@ -161,23 +161,60 @@ abbr{
     font-size: 25px;
 }
 
-#intro-container{
+#intro-container {
     padding-top: 150px;
     background-image: url('blackboard.png');
-    background-color:#00563B;
-    background-repeat:no-repeat;
+    background-color: #00563B;
+    background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 1000px;
-    margin:auto;
+    margin: auto;
     width: 100%;
-    font-weight:bold;
-    display:flex;
+    font-weight: bold;
+    display: flex;
     justify-content: space-evenly;
 }
 
-#intro-container h2{
-
+.hika {
+    width: 350px;
+    height: 150px;
+    background-color: #00008B;
+    display: inline-block;
+    border-radius: 50px 50px;
+    color: #EDF5E1;
+    text-transform: uppercase;
 }
+
+.beginner {
+    text-align: center;
+    font-family: cursive;
+    color: #5CDB95;
+    font-size: 50px;
+}
+
+.hkfont {
+    color: #5CDB95;
+    font-size: 60px;
+}
+
+.intro-left {
+    float: left;
+    width: 50%;
+    padding: 15px;
+    padding-top: 100px;
+    box-sizing: border-box;
+    color: #05386B;
+    font-size: 20px;
+    text-align: center;
+}
+
+.intro-right {
+    float: right;
+    width: 50%;
+    padding: 15px;
+    text-align: center;
+}
+
 
 
 #n5-container h2{
