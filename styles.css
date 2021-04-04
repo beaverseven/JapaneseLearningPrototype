@@ -166,11 +166,57 @@ abbr{
     display:flex;
     justify-content: space-evenly;
 }
+.hika {
+    width: 350px;
+    height: 150px;
+    background-color: #00008B;
+    display: inline-block;
+    border-radius: 50px 50px;
+    color: #EDF5E1;
+    text-transform: uppercase;
+}
+.beginner {
+    text-align: center;
+    font-family: cursive;
+    color: #5CDB95;
+    font-size: 50px;
+}
+.hkfont {
+    color: #5CDB95;
+    font-size: 60px;
+}
+.intro-left {
+    float: left;
+    width: 50%;
+    padding: 15px;
+    padding-top: 100px;
+    box-sizing: border-box;
+    color: #05386B;
+    font-size: 20px;
+    text-align: center;
+}
+.intro-right{
+    float: right;
+    width: 50%;
+    padding: 15px;
+    text-align: center;
 
-#intro-container h2{
-
+    
 }
 
+
+
+
+
+#n5-container{
+    background-color:#29AB87;
+    margin: auto;
+    width: 100%;
+    font-weight:bold;
+    display:flex;
+    justify-content: space-evenly;
+
+}
 
 #n5-container h2{
 
