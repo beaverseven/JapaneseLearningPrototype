@@ -14,6 +14,7 @@ header{
     
 }
 nav{
+    position: absolute;
     overflow: hidden;
     width: 100%;
     background-color: #00008B;
@@ -145,11 +146,11 @@ abbr{
     font-weight:bold;
     display:flex;
     justify-content: space-evenly;
-    position:relative;
+
 }
 
 #intro-container h2{
-    position:absolute;
+
 }
 
 #n5-container{
@@ -160,11 +161,11 @@ abbr{
     font-weight:bold;
     display:flex;
     justify-content: space-evenly;
-    position:relative;
+
 }
 
 #n5-container h2{
-    position:absolute;
+
 
 }
 
@@ -176,11 +177,11 @@ abbr{
     font-weight:bold;
     display:flex;
     justify-content: space-evenly;
-    position:relative;
+
 }
 
 #n4-container h2{
-    position:absolute;
+
 
 }
 
@@ -192,11 +193,11 @@ abbr{
     font-weight:bold;
     display:flex;
     justify-content: space-evenly;
-    position:relative;
+
 }
 
 #n3-container h2{
-    position:absolute;
+
 }
 
 .left-side{
