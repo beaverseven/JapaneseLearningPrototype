@@ -6,12 +6,7 @@ body{
 #logo{
     text-align: center;
 }
-header{
-    padding: 50px;
-    background-color: black;
-    margin-bottom: 10px;
-    
-}
+
 nav{
     overflow: hidden;
     width: 100%;
